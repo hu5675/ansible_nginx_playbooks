@@ -1,0 +1,2 @@
+# ansible_nginx_playbooks
+Jenkins集成ansible部署静态网站模板
